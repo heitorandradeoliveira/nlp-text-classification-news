@@ -30,7 +30,7 @@ Criando env com environment.yml
 
 ```
 conda env create -f environment.yml
-conda activate agnews-classifier
+conda activate nome_env
 ```
 
 ---
