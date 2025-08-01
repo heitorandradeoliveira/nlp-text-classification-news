@@ -26,6 +26,13 @@ jupyter nbconvert 01_eda_preprocessing_modeling.ipynb --to markdown --no-input
 
 ```
 
+Criando env com environment.yml
+
+```
+conda env create -f environment.yml
+conda activate agnews-classifier
+```
+
 ---
 
 #### 📊 Fonte dos Dados
