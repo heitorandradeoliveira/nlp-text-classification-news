@@ -178,3 +178,17 @@ A distribuição das categorias no conjunto de treino é relativamente equilibra
 - **Logistic Regression** e **Linear SVM** apresentaram os melhores desempenhos.
 - O modelo **Random Forest** teve desempenho inferior, especialmente em categorias com menor volume textual.
 - Os resultados indicam que modelos lineares são mais eficazes neste contexto, devido à natureza textual vetorizada com TF-IDF.
+
+---
+
+### Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
+
+---
+
+### Contato
+
+LinkedIn: [linkedin.com/in/heitorandradeoliveira](https://linkedin.com/in/heitorandradeoliveira)
+
+---
